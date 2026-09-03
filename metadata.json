@@ -1,0 +1,6 @@
+{
+  "name": "METRISCAN FAST - Legal Metrology Compliance Assistant",
+  "description": "Rapid Packaged Commodity Compliance Assistant under Legal Metrology (Packaged Commodities) Rules, 2011 with multimodal AI label inspection, rapid officer scanning, consumer complaints, and government enforcement.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
